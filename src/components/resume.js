@@ -64,7 +64,8 @@ class Resume extends Component {
             <hr style={{ borderTop: "3px solid #e22947" }} />
 
             <h2>Projects</h2>
-            <Coursework courseName="•	IoT PIR Motion detection – Using Django as framework, Node.js and React.js for front end development. Motion detected from hardware then sends data to AWS as JSON object files and storing to S3 bucket then retrieved and sent to web app where users log in to view data on their device." />
+            <Coursework courseName="•	IoT PIR Motion detection – As human motion is detected, device publish and subscribe to messages via MQTT protocol to AWS as JSON object file, then storing to S3 bucket and retrieved and sent to web app which uses Node and React for front end development." />
+            <Coursework courseName="•	Portfolio Web App - React web app with Create-React-App, components, and router DOM. With Node.js and NPM package manager is what is used in my front end development. Deployed from GitHub and published with Netlify and configured Google domains to point to Netlify and secured with HTTPS." />
             <Coursework courseName="•	Academic Banner System – Using MVC model to create separation of concerns. Storing data using a relational database then migrating to MongoDB. HTML, CSS, JavaScript with Node.js." />
             <Coursework courseName="•	CW Master Teacher Web App - Using MVC model to create separation of concerns. Storing data using a relational database. Front end using HTML, JavaScript, and CSS." />
             <hr style={{ borderTop: "3px solid #e22947" }} />
