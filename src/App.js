@@ -8,6 +8,7 @@ class App extends Component {
   render() {
     return (
       /* Uses a header that scrolls with the text, rather than staying locked at the top */
+
       <div className="demo-big-content">
         <Layout>
           <Header className="header-color" title="MY PORTFOLIO" scroll>
