@@ -17,8 +17,7 @@ class Landing extends Component {
               <h1>Salesforce Developer</h1>
               <hr />
               <p>
-                Ready to work together on impactful idea's! or something useless
-                just for fun! :o)
+                Ready to work together
               </p>
               <div className="social-links">
                 {/* LinkedIn */}
