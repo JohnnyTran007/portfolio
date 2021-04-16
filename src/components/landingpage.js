@@ -14,7 +14,7 @@ class Landing extends Component {
             />
             <div className="banner-text">
               <h2>John Tran</h2>
-              <h1>Aspiring Full Stack Developer</h1>
+              <h1>Salesforce Developer</h1>
               <hr />
               <p>
                 Ready to work together on impactful idea's! or something useless
